@@ -1,0 +1,9 @@
+import pyaudio
+
+CHANNELS=1
+RATE=16000
+CHUNK=1024
+AUDIO_FILE="temp_recording.wav"
+THRESHOLD=1500
+SILENCE_LIMIT=1.5
+FORMAT=pyaudio.paInt16

@@ -1,0 +1,14 @@
+{
+  "nome_usuario": "Ajente",
+  "assistente_nome": "CROMOS_ALFA",
+  "preferencias": {
+    "modo_silencioso": false,
+    "limite_historico_memoria": 10
+  },
+  "fatos_lembrados": [
+    "O usuário é o criador do projeto CROMOS_ALFA.",
+    "CROMOS_ALFA é um assistente virtual integrado ao sistema do usuário que esta em fase de desenvolvimento..",
+    "O usuário tem o apelido de kobayashi24730 mas o nome verdadeiro e Guilherme.",
+    "Gosta de automação e controle do sistema via voz."
+  ]
+}
